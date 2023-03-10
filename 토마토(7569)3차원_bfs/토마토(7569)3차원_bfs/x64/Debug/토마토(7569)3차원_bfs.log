@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\dahun\source\repos\토마토(7569)3차원_bfs\토마토(7569)3차원_bfs\FileName.cpp(13,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tomato' 왼쪽은 무시됩니다.
+  토마토(7569)3차원_bfs.vcxproj -> C:\Users\dahun\source\repos\토마토(7569)3차원_bfs\x64\Debug\토마토(7569)3차원_bfs.exe
