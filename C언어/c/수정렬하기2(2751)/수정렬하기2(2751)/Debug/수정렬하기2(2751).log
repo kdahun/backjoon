@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\dahun\source\repos\수정렬하기2(2751)\수정렬하기2(2751)\소스.c(40,36): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\dahun\source\repos\수정렬하기2(2751)\수정렬하기2(2751)\소스.c(40,36): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\dahun\source\repos\수정렬하기2(2751)\수정렬하기2(2751)\소스.c(40,36): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  수정렬하기2(2751).vcxproj -> C:\Users\dahun\source\repos\수정렬하기2(2751)\Debug\수정렬하기2(2751).exe
